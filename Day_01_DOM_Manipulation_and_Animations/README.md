@@ -38,14 +38,3 @@ A complex animation lab managing three independent moving images.
 * **Absolute Positioning:** For animations to work, elements must have `position: absolute` or `fixed` so that `left`, `right`, `top`, and `bottom` properties can move them relative to their parent container.
 * **Recursive SetTimeout:** Preferred over `setInterval` for these tasks to avoid frame-skipping if the browser logic takes longer than the interval delay.
 * **Direct Property Mapping:** Learned that CSS properties with hyphens (e.g., `text-align`) are accessed in JavaScript using camelCase (`element.style.textAlign`).
-
----
-
-### 📝 Commit Messages
-
-| Task / File | Commit Message |
-| :--- | :--- |
-| **Task 01** | `feat: implement dynamic text styler via radio button event triggers` |
-| **Task 02** | `feat: implement spider image cloning and timed DOM updates` |
-| **Task 03** | `feat: develop multi-object animation engine with boundary detection` |
-| **README** | `docs: add Day 01 DOM and Animation documentation` |
