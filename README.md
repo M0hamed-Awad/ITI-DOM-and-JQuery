@@ -1,4 +1,4 @@
-# 🎨 DOM Manipulation & JQuery | ITI Intake 45
+# 🎨 DOM Manipulation & JQuery | ITI Intake 46
 
 [![Tech](https://img.shields.io/badge/Tech-JS--JQuery--UI-blue.svg)]()
 [![Course](https://img.shields.io/badge/Course-ITI_Intake_45-orange.svg)]()
