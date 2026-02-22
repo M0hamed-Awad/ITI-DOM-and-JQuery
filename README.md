@@ -1,7 +1,7 @@
 # 🎨 DOM Manipulation & JQuery | ITI Intake 46
 
 [![Tech](https://img.shields.io/badge/Tech-JS--JQuery--UI-blue.svg)]()
-[![Course](https://img.shields.io/badge/Course-ITI_Intake_45-orange.svg)]()
+[![Organization](https://img.shields.io/badge/Organization-ITI_Intake_46-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 
 This repository focuses on the bridge between logic and presentation. It covers the mastery of the Document Object Model (DOM) for dynamic content creation and the utilization of the JQuery library for advanced animations and user interactions.
